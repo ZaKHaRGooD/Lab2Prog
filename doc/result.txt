@@ -1,0 +1,108 @@
+Fletchling Стефен из команды синих вступает в бой!
+Fletchinder Клей из команды белых вступает в бой!
+Fletchinder Клей промахивается
+
+Fletchling Стефен использует Screech. 
+Fletchinder Клей уменьшает защиту.
+
+Fletchinder Клей использует Swagger. 
+
+Fletchling Стефен использует Swagger. 
+
+Fletchinder Клей растерянно попадает по себе. 
+Fletchinder Клей теряет 4 здоровья.
+
+Fletchling Стефен использует Swagger. 
+
+Fletchinder Клей использует Swagger. 
+
+Fletchling Стефен использует Screech. 
+Fletchinder Клей уменьшает защиту.
+
+Fletchinder Клей растерянно попадает по себе. 
+Fletchinder Клей теряет 4 здоровья.
+
+Fletchling Стефен использует Swagger. 
+
+Fletchinder Клей использует Swagger. 
+
+Fletchling Стефен растерянно попадает по себе. 
+Fletchling Стефен теряет 6 здоровья.
+
+Fletchinder Клей использует Swagger. 
+
+Fletchling Стефен использует Swagger. 
+
+Fletchinder Клей промахивается
+
+Fletchling Стефен растерянно попадает по себе. 
+Fletchling Стефен теряет 6 здоровья.
+
+Fletchinder Клей растерянно попадает по себе. 
+Fletchinder Клей теряет 6 здоровья.
+Fletchinder Клей теряет сознание.
+Talonflame Кевин из команды белых вступает в бой!
+Talonflame Кевин использует Flash Cannon. 
+
+Fletchling Стефен использует Swagger. 
+
+Talonflame Кевин использует Swagger. 
+
+Fletchling Стефен растерянно попадает по себе. 
+Fletchling Стефен теряет 4 здоровья.
+Fletchling Стефен теряет сознание.
+Heatmor Джеймс из команды синих вступает в бой!
+Talonflame Кевин растерянно попадает по себе. 
+Talonflame Кевин теряет 4 здоровья.
+
+Heatmor Джеймс использует Bulldoze. 
+Talonflame Кевин теряет 1 здоровья.
+Talonflame Кевин не замечает воздействие типа GROUND
+
+Talonflame Кевин растерянно попадает по себе. 
+Talonflame Кевин теряет 5 здоровья.
+
+Heatmor Джеймс промахивается
+
+Talonflame Кевин использует Swagger. 
+
+Heatmor Джеймс использует Wood Hammer. 
+
+Talonflame Кевин растерянно попадает по себе. 
+Talonflame Кевин теряет 5 здоровья.
+Talonflame Кевин теряет сознание.
+Tyrogue Кайри из команды белых вступает в бой!
+Heatmor Джеймс использует Bulldoze. 
+Tyrogue Кайри теряет 4 здоровья.
+Tyrogue Кайри уменьшает скорость.
+
+Tyrogue Кайри промахивается
+
+Tyrogue Кайри промахивается
+
+Heatmor Джеймс растерянно попадает по себе. 
+Heatmor Джеймс теряет 4 здоровья.
+
+Tyrogue Кайри использует Facade. 
+Heatmor Джеймс теряет 4 здоровья.
+
+Heatmor Джеймс растерянно попадает по себе. 
+Heatmor Джеймс теряет 4 здоровья.
+
+Tyrogue Кайри использует Facade. 
+Heatmor Джеймс теряет 4 здоровья.
+Heatmor Джеймс теряет сознание.
+Hitmonlee Леброн из команды синих вступает в бой!
+Hitmonlee Леброн использует Facade. 
+Tyrogue Кайри теряет 6 здоровья.
+
+Tyrogue Кайри использует Low Sweep. 
+Hitmonlee Леброн теряет 7 здоровья.
+Hitmonlee Леброн увеличивает скорость.
+
+Hitmonlee Леброн использует Low Sweep. 
+Tyrogue Кайри теряет 10 здоровья.
+Tyrogue Кайри увеличивает скорость.
+Tyrogue Кайри теряет сознание.
+В команде белых не осталось покемонов.
+Команда синих побеждает в этом бою!
